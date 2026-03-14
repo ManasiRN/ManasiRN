@@ -12,7 +12,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Girl coding with curly hair" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Girl coding with curly hair" height="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```python
 class Manasi:
