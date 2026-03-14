@@ -161,12 +161,6 @@ class Manasi:
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake.svg" />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%"/>
-
-*"Building things that matter — one commit at a time."* 💫
 
 </div>
