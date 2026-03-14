@@ -1,7 +1,9 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hey!%20I'm%20Manasi%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3,4,7,15,19,24&height=250&section=header&text=Manasi%20Netrekar&fontSize=65&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Space+%26+Legal+AI+Alum&descAlignY=62&animation=fadeIn&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
+<br/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
@@ -150,7 +152,7 @@ class Manasi:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansinetrekar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsvgin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasinetrekar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManaiRN)
 
 <br/>
