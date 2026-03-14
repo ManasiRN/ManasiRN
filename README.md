@@ -155,7 +155,7 @@ class Manasi:
 **💬 Open to collabs, referrals & chai chats about AI ☕**
 
 </div>
-
+![Snake animation](https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake.svg)
 
 ---
 
