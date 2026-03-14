@@ -1,9 +1,7 @@
 <div align="center">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,3,4,7,15,19,24&height=250&section=header&text=Manasi%20Netrekar&fontSize=65&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Space+%26+Legal+AI+Alum&descAlignY=62&animation=fadeIn&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
-<br/>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9AEF,50:FF6FD8,100:FFC2F2&height=220&section=header&text=Hey!%20I'm%20Manasi%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ISRO%20Intern%20%E2%80%A2%20Builder%20of%20Real%20Things&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
 
 
 
