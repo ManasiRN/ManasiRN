@@ -1,6 +1,9 @@
 <div align="center">
 
-
+<h1>
+Hey! I'm Manasi 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFD93D,100:6BCB77&height=220&section=header&text=Hey!%20I'm%20Manasi%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ISRO%20Intern%20%E2%80%A2%20Builder%20of%20Real%20Things&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 
