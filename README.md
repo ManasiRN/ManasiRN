@@ -129,17 +129,15 @@ class Manasi:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManasiRN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiRN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManasiRN&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiRN&layout=compact&langs_count=8&theme=radical&border_radius=12"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiRN&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManasiRN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiRN&theme=radical&hide_border=false&border_radius=12" />
+</div>>
 
 ---
 
