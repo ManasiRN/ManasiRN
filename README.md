@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hey!%20I'<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">m%20Manasi%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hey!%20I'm%20Manasi%20%F0%9F%91%8B&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=60&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6FD8&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%A4%96+AI+Engineer+%7C+Python+Lover+%7C+Open+Source+Contributor;%F0%9F%9B%B0%EF%B8%8F+Built+real+systems+at+ISRO+%26+Infosys;%F0%9F%94%A5+RAG+Pipelines+%7C+GenAI+%7C+Docker+%7C+AWS;%F0%9F%8C%9F+Open+to+SWE+%26+AI%2FML+Roles+in+Bengaluru;%F0%9F%92%AB+Let%27s+build+something+extraordinary!)](https://git.io/typing-svg)
 
