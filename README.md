@@ -148,8 +148,6 @@ class Manasi:
 
 <br/>
 
-
----
 <img src="https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake.svg" />
 
 </div>
