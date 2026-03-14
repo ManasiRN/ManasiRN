@@ -132,7 +132,7 @@ class Manasi:
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/ManaiRN/ManaiRN/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/ManasiRN/ManasiRN/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -155,7 +155,7 @@ class Manasi:
 **💬 Open to collabs, referrals & chai chats about AI ☕**
 
 </div>
-![snake](https://github.com/ManasiRN/ManasiRN/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
