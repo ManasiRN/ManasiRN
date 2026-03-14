@@ -132,9 +132,7 @@ class Manasi:
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![snake](https://github.com/ManaiRN/ManaiRN/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
