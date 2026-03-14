@@ -164,4 +164,4 @@ class Manasi:
 
 *"Building things that matter, one commit at a time."* ✨
 </div>
-![Snake animation](https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake.svg)
+[Snake animation](https://raw.githubusercontent.com/ManasiRN/ManasiRN/output/github-contribution-grid-snake.svg)
