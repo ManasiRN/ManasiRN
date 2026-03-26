@@ -77,19 +77,6 @@ class Manasi:
 
 ---
 
-## 🚀 Projects — Real Work. Scalable. Optimized.
-
-<div align="center">
-
-![Forest Fire](https://img.shields.io/badge/🌳_Forest_Fire_Detection_%26_Simulation-ML_+_Cellular_Automata-2ecc71?style=for-the-badge)
-
-![Gesture Recognition](https://img.shields.io/badge/✋_AI_Math_Gesture_Recognition-TensorFlow_+_OpenCV_+_AWS-e74c3c?style=for-the-badge)
-
-![Prescription AI](https://img.shields.io/badge/💊_AI_Prescription_%26_Adherence_System-Flutter_+_Firebase-9b59b6?style=for-the-badge)
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
