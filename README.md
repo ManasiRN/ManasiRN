@@ -24,7 +24,7 @@ class Manasi:
     name       = "Manasi Netrekar"
     pronouns   = "she / her 💜"
     degree     = "B.Tech CSE @ Srinivas University (2022–26)"
-    cgpa       = 9.32  # 🎯
+    cgpa       = 9.44  # 🎯
     based_in   = "Mangaluru → Bengaluru 📍"
 
     experience = [
