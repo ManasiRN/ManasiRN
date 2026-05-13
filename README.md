@@ -41,20 +41,6 @@ class Manasi:
 
 ---
 
-## 🔭 What I'm Currently Up To
-
-<div align="center">
-
-| 🔨 Working On | 📚 Learning | 🎯 Looking For |
-|:---|:---|:---|
-| AI/ML Projects & Open Source | System Design + Advanced DSA | SWE & AI/ML Roles 🔥 |
-| Leveling up my GenAI game | LLM Fine-tuning & Agentic AI | Full-time — Bengaluru 2026 |
-| Real-world scalable systems | Cloud Architecture on AWS | High-impact, collaborative teams |
-
-</div>
-
----
-
 ## 💼 Experience
 
 <div align="center">
